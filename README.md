@@ -2,14 +2,7 @@
 <img width="1288" height="892" alt="image" src="https://github.com/user-attachments/assets/9fe0eed7-6a4a-45c4-ad33-2c7f1a3695a8" />
 </div>
 
-# Hello World Program in Haskell
-```
-main :: IO ()
-main = putStrLn "Hello, world!"
-```
-<br>
-
-# Compilation and Execution Commands
+# Basic Compilation and Execution Commands
 
 ### For Direct Execution (Without Compilation)
 <br>
