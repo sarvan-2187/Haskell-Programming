@@ -1,4 +1,4 @@
-<div class="flex items-center justify-center">
+<div className="flex items-center justify-center">
    Hello
 </div>
 
