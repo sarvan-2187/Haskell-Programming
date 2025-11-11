@@ -1,3 +1,7 @@
+<div class="flex items-center justify-center">
+   Hello
+</div>
+
 # Hello World Program in Haskell
 ```
 main :: IO ()
