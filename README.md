@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center;">
-   Hello
+   <img width="2086" height="509" alt="image" src="https://github.com/user-attachments/assets/cc17f46a-9fac-445f-9b1f-a19036c1146a" />
 </div>
 
 # Hello World Program in Haskell
