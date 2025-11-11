@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center;">
-<img width="1288" height="892" alt="image" src="https://github.com/user-attachments/assets/9fe0eed7-6a4a-45c4-ad33-2c7f1a3695a8" />
+<img width="1024" height="160" alt="image" src="https://github.com/user-attachments/assets/64fb3938-fc82-4551-8c29-85e7266a03cd" />
 </div>
 
 # Basic Compilation and Execution Commands
